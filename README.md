@@ -1,27 +1,39 @@
 Project Link :- https://mukeshinstaapp.ccbp.tech/login
+
 User Credentials:
- 01.username: aakash
-    password: sky@007
- 02.username: agastya
-    password: myth#789
- 03.username: advika
-    password: world@5
- 04.username: binita
+
+01.username: aakash
+   password: sky@007
+
+02.username: agastya
+   password: myth#789
+
+03.username: advika
+   password: world@5
+
+04.username: binita
     password: modest*6
- 05.username: chetan
-    password: vigor$life
- 06.username: deepak
-    password: lightstar@1
- 07.username: harshad
-    password: joy@85
- 08.username: kapil
-    password: moon$008
- 09.username: rahul
-    password: rahul@2021
- 10.username: shravya
-    password: musical#stone
- 11.username: saira
-    password: princess@9
+
+05.username: chetan
+   password: vigor$life
+
+06.username: deepak
+   password: lightstar@1
+
+07.username: harshad
+   password: joy@85
+
+08.username: kapil
+   password: moon$008
+
+09.username: rahul
+   password: rahul@2021
+
+10.username: shravya
+   password: musical#stone
+
+11.username: saira
+   password: princess@9
 
 In this project let's build a **Insta Share App** by applying the concepts we have learned till now. This project allows you to practice the concepts and techniques learned till React Course and apply them in a concrete project.
 
